@@ -1,0 +1,27 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="pub.devrel.easypermissions"
+4    android:versionCode="1"
+5    android:versionName="1.2.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="14"
+8-->F:\AndroidStudioProjects\ScanCodeDemo\easypermissions\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="27" />
+9-->F:\AndroidStudioProjects\ScanCodeDemo\easypermissions\src\main\AndroidManifest.xml
+10
+11    <application>
+11-->F:\AndroidStudioProjects\ScanCodeDemo\easypermissions\src\main\AndroidManifest.xml:6:5-12:19
+12        <activity
+12-->F:\AndroidStudioProjects\ScanCodeDemo\easypermissions\src\main\AndroidManifest.xml:7:9-11:65
+13            android:name="pub.devrel.easypermissions.AppSettingsDialogHolderActivity"
+13-->F:\AndroidStudioProjects\ScanCodeDemo\easypermissions\src\main\AndroidManifest.xml:8:13-86
+14            android:exported="false"
+14-->F:\AndroidStudioProjects\ScanCodeDemo\easypermissions\src\main\AndroidManifest.xml:9:13-37
+15            android:label=""
+15-->F:\AndroidStudioProjects\ScanCodeDemo\easypermissions\src\main\AndroidManifest.xml:10:13-29
+16            android:theme="@style/EasyPermissions.Transparent" />
+16-->F:\AndroidStudioProjects\ScanCodeDemo\easypermissions\src\main\AndroidManifest.xml:11:13-63
+17    </application>
+18
+19</manifest>

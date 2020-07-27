@@ -1,0 +1,44 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="pub.devrel.easypermissions.test" >
+4
+5    <uses-sdk
+5-->F:\AndroidProjects311\YikaDoctor\easypermissions\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1063859155942975016.xml:5:5-74
+6        android:minSdkVersion="14"
+6-->F:\AndroidProjects311\YikaDoctor\easypermissions\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1063859155942975016.xml:5:15-41
+7        android:targetSdkVersion="27" />
+7-->F:\AndroidProjects311\YikaDoctor\easypermissions\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1063859155942975016.xml:5:42-71
+8
+9    <instrumentation
+9-->F:\AndroidProjects311\YikaDoctor\easypermissions\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1063859155942975016.xml:11:5-15:81
+10        android:name="android.test.InstrumentationTestRunner"
+10-->F:\AndroidProjects311\YikaDoctor\easypermissions\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1063859155942975016.xml:11:22-75
+11        android:functionalTest="false"
+11-->F:\AndroidProjects311\YikaDoctor\easypermissions\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1063859155942975016.xml:14:22-52
+12        android:handleProfiling="false"
+12-->F:\AndroidProjects311\YikaDoctor\easypermissions\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1063859155942975016.xml:13:22-53
+13        android:label="Tests for pub.devrel.easypermissions.test"
+13-->F:\AndroidProjects311\YikaDoctor\easypermissions\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1063859155942975016.xml:15:22-79
+14        android:targetPackage="pub.devrel.easypermissions.test" />
+14-->F:\AndroidProjects311\YikaDoctor\easypermissions\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1063859155942975016.xml:12:22-77
+15
+16    <application android:debuggable="true" >
+16-->F:\AndroidProjects311\YikaDoctor\easypermissions\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1063859155942975016.xml:7:5-9:19
+16-->F:\AndroidProjects311\YikaDoctor\easypermissions\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1063859155942975016.xml:7:18-43
+17        <uses-library android:name="android.test.runner" />
+17-->F:\AndroidProjects311\YikaDoctor\easypermissions\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1063859155942975016.xml:8:9-60
+17-->F:\AndroidProjects311\YikaDoctor\easypermissions\build\intermediates\tmp\manifest\androidTest\debug\manifestMerger1063859155942975016.xml:8:23-57
+18
+19        <activity
+19-->[__tested_artifact__::easypermissions] F:\AndroidProjects311\YikaDoctor\easypermissions\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-16:66
+20            android:name="pub.devrel.easypermissions.AppSettingsDialogHolderActivity"
+20-->[__tested_artifact__::easypermissions] F:\AndroidProjects311\YikaDoctor\easypermissions\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-86
+21            android:exported="false"
+21-->[__tested_artifact__::easypermissions] F:\AndroidProjects311\YikaDoctor\easypermissions\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-37
+22            android:label=""
+22-->[__tested_artifact__::easypermissions] F:\AndroidProjects311\YikaDoctor\easypermissions\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-29
+23            android:theme="@style/EasyPermissions.Transparent" />
+23-->[__tested_artifact__::easypermissions] F:\AndroidProjects311\YikaDoctor\easypermissions\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-63
+24    </application>
+25
+26</manifest>
